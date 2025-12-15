@@ -15,6 +15,16 @@ My journey into tech started during COVID with a simple **“Hello World”** an
 - Security-focused automation projects in Python
 - Full-stack applications with **Spring Boot + React**
 
+### 🚀 Projects
+
+| Project | Description | Tech / Focus |
+|-------|------------|--------------|
+| 🧩 **Board Game Exchange Platform**<br>🔗 https://github.com/McGill-ECSE321-Winter2025/project-group-8 | Developed at **McGill University** as part of **ECSE 321**. A full-stack application for board game enthusiasts to lend/borrow games, create and join events, and connect with other players. Includes a detailed project report (Deliverable 3). | Java · Spring Boot · React · REST APIs · PostgreSQL |
+| 📈 **Stock Exchange Database Simulation**<br>🔗 https://github.com/SMLG120/COMP421_P3_G13 | Database systems project simulating core components of a stock exchange, focusing on relational modeling, SQL queries, constraints, and transactions. | SQL · Database Design |
+| 🌳 **Binary Tree Layout (OCaml)**<br>🔗 https://github.com/kevinliu399/layout_binary | Functional programming project implementing a binary tree layout algorithm that resolves subtree overlaps using contours, modifiers, and shifts. | OCaml · Functional Programming · Algorithms |
+| 🎒 **CoolSupplies**<br>🔗 https://github.com/F2024-ECSE223/ecse223-group-project-p4 | Full-stack school supply management application developed for **ECSE 223**, emphasizing clean domain modeling, controller logic, and maintainable architecture. | Java · UML · MVC · Software Design |
+
+
 ### 📚 Side Quest
 Teaching programming and technology — with a focus on **AI and cybersecurity** — to students aged **5–17** at **Digital Moment**.
 
